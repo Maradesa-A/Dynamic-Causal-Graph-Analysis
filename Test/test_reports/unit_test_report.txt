@@ -1,0 +1,15 @@
+test_create_n_dimensional_intervention_grid (Unittestfunction.TestDynamicCausalGraph.test_create_n_dimensional_intervention_grid) ... ok
+test_fifteen_nodes_per_time_steps (Unittestfunction.TestDynamicCausalGraph.test_fifteen_nodes_per_time_steps) ... ok
+test_get_interventional_grids (Unittestfunction.TestDynamicCausalGraph.test_get_interventional_grids) ... ok
+test_make_graphical_model_independent (Unittestfunction.TestDynamicCausalGraph.test_make_graphical_model_independent) ... ok
+test_make_sequential_intervention_dict (Unittestfunction.TestDynamicCausalGraph.test_make_sequential_intervention_dict) ... ok
+test_optimal_sequence_of_interventions (Unittestfunction.TestDynamicCausalGraph.test_optimal_sequence_of_interventions) ... ok
+test_sequentially_sample_model (Unittestfunction.TestDynamicCausalGraph.test_sequentially_sample_model) ... ok
+test_setup_ind_scm (Unittestfunction.TestDynamicCausalGraph.test_setup_ind_scm) ... ok
+test_stationary_independent_sem_dynamic (Unittestfunction.TestDynamicCausalGraph.test_stationary_independent_sem_dynamic) ... ok
+test_stationary_independent_sem_static (Unittestfunction.TestDynamicCausalGraph.test_stationary_independent_sem_static) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 3609.340s
+
+OK

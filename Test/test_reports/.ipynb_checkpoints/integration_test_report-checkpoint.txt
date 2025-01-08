@@ -1,0 +1,7 @@
+test_full_workflow (IntegrationTest.TestDynamicCausalGraphIntegration.test_full_workflow)
+Comprehensive integration test to validate the full workflow. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 982.497s
+
+OK
