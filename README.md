@@ -6,4 +6,4 @@ Causal graphs are powerful tools for understanding cause-effect relationships in
 
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/8d61e13a-9aa6-4659-9010-bf40bcc26196" />
 
-##
+# Dependencies
