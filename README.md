@@ -6,4 +6,14 @@ Causal graphs are powerful tools for understanding cause-effect relationships in
 
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/8d61e13a-9aa6-4659-9010-bf40bcc26196" />
 
-# Dependencies
+## Dependencies
+- tensorflow
+- pygraphviz
+- networkx
+- itertools
+- typing
+- unittest/unittest2
+
+## References
+1. Virginia Aglietti, Neil Dhir, Javier Gonz´alez, and Theodoros Damoulas. Dynamic causal bayesian optimization. Advances in Neural Information Processing Systems, 34:10549–10560, 2021.
+  
