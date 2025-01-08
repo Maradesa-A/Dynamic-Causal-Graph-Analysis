@@ -13,7 +13,6 @@ Causal graphs are powerful tools for understanding cause-effect relationships in
 - pygraphviz
 - networkx
 - itertools
-- typing
 - unittest/unittest2
 
 ## References
