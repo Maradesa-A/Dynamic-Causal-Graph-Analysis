@@ -1,6 +1,6 @@
 # Dynamic-Causal-Graph-Analysis
 
-This repository provides step-by-step solutions to Part 1 of Problem 3, which focuses on Causal Dynamic Bayesian Optimization (DCBO). Detailed solutions to the corresponding problems in Part 1 can be found in the [docs](docs) folder. Following the code provided in [1], the tensorflow-based version was developed as reported in [Analyze_Causal_Graph](Analyze_Causal_Graph) folder. The code has been rigorously tested through both unit and integration tests. The results of these tests, along with the codes and reports, can be found in the [Test](Test) folder. Note that the text files in [test_reports](test_reports) contain the test results.
+This repository provides step-by-step solutions to Part 1 of Problem 3, which focuses on Causal Dynamic Bayesian Optimization (DCBO). Detailed solutions to the corresponding problems in Part 1 can be found in the [docs](docs) folder. Following the code provided in [1], the tensorflow-based version was developed as reported in [Analyze_Causal_Graph](Analyze_Causal_Graph) folder. The code has been rigorously tested through both unit and integration tests. The results of these tests, along with the codes and reports, can be found in the [Test](Test) folder. 
 
 # Introduction
 
